@@ -1,4 +1,4 @@
 # hello-world
 Empezando aver 
 
-Aprendiendo a usar GitHub genial 
+Usando GitHub :v:
